@@ -1,2 +1,2 @@
-# pistachio-docker
-Docker container with pistachio
+# Pistachio On Docker Container
+Docker container with pistachio (single node dockerfile provided)
